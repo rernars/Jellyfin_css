@@ -32,10 +32,10 @@
   padding-top: 0;
 }
 
-#itemDetailPage .itemName.infoText.parentNameLast {
+/*#itemDetailPage .itemName.infoText.parentNameLast {
   display: none;
 }
-
+*/
 .hide + .detailPageWrapperContainer .itemName {
   display: block !important;
 }
