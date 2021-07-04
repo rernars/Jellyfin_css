@@ -1,0 +1,24 @@
+/*FONTS*/
+@font-face{font-family:'Netflix Sans Thin';font-weight:100; src:url(https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Th.woff2) format('woff2'),url(https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Th.woff) format('woff')}
+@font-face{font-family:'Netflix Sans Light';font-weight:300; src:url(https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Lt.woff2) format('woff2'),url(https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Lt.woff) format('woff')}
+@font-face{font-family:'Netflix Sans Regular';font-weight:400; src:url(https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Rg.woff2) format('woff2'),url(https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Rg.woff) format('woff')}
+@font-face{font-family:'Netflix Sans Medium';font-weight:700; src:url(https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Md.woff2) format('woff2'),url(https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Md.woff) format('woff')}
+@font-face{font-family:'Netflix Sans Bold';font-weight:800; src:url(https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Bd.woff2) format('woff2'),url(https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Bd.woff) format('woff')}
+@font-face{font-family:'Netflix Sans Black';font-weight:900; src:url(https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Blk.woff2) format('woff2'),url(https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Blk.woff) format('woff')}
+
+.emby-button-foreground{font-family:'Netflix Sans Regular' font-size: 17px;}
+body{font-family:'Netflix Sans Regular'}
+h1{font-family: 'Netflix Sans Bold'; font-size: 35px;}
+h3{font-family: 'Netflix Sans Regular';}
+.navMenuOptionText{font-family: 'Netflix Sans Thin'; font-size: 20px;}
+.sidebarHeader{font-family: 'Netflix Sans Bold'; font-size: 22px; }
+.itemAction.textActionButton{font-family: 'Netflix Sans Thin'; font-size: 18.5px; }
+.inputLabel.inputLabelUnfocused{font-size: 20px; font-family: 'Netflix Sans Thin';}
+h2{font-size: 20px; font-family: 'Netflix Sans Medium';}
+.selectLabel{font-family: 'Netflix Sans Light' font-size: 18.5px}
+.itemAction.textActionButton{font-family: 'Netflix Sans Regular'; font-size: 18.5px;}
+.cardText.cardTextCentered.cardText-secondary{font-family: 'Netflix Sans Thin'; font-size:15px;}
+.osdTitle{font-family: 'Netflix Sans Bold'; font-size: 18.5px;}
+.htmlvideoplayer.htmlvideoplayer-moveupsubtitles{font-family: 'Netflix Sans Bold' font-size: 55px;}
+.overview.detail-clamp-text{font-family: 'Netflix Sans Regular'; font-size: 17.5px;}
+.itemSelectionCount {font-size: 24.99px;}
