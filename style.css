@@ -1,7 +1,7 @@
 /*MEDIA LOGO DISPLAY*/
 #itemDetailPage .detailLogo {
   position: absolute;
-  right: 1%;
+  left: 1%;
   top: 5%;
   background-position: 0 !important;
   display: block !important;
